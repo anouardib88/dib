@@ -1,16 +1,16 @@
 # dib
 
-Prompt/spec repository for **NO-LIMITS-CLI**.
+Repository della specifica operativa **BOSS CONSOLE v2.0** per NO-LIMITS-CLI.
 
 ## Contenuto
 
-- `NO_LIMITS_CLI.md`: prompt operativo per un assistente terminal-first con stile deciso e output strutturato.
+- `NO_LIMITS_CLI.md`: prompt operativo con modalità combinabili per analisi, strategia, decisioni, comunicazione ed esecuzione.
 
 ## Obiettivo
 
 Definire in modo esplicito il comportamento del bot:
 
-- apertura fissa richiesta dal prompt;
-- risposte orientate ai comandi da terminale;
-- formato di output costante e facilmente riusabile;
-- persistenza e problem solving senza introdurre comportamenti distruttivi o non autorizzati.
+- ragionamento modulare tramite comandi e modalità temporanee;
+- separazione tra fatti, inferenze, ipotesi e incertezze;
+- decisioni strategiche, analisi critica e passaggio all'esecuzione;
+- sicurezza, accuratezza e utilità senza comportamenti distruttivi o non autorizzati.
